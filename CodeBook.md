@@ -8,7 +8,7 @@ The attached R script (run_analysis.R) performs the following to clean up the da
 
 * 1. Merges the training and test sets to create one data set, namely  
 
- train/X_train.txt with test/X_test.txt -- the result is a 10299 x 561 data frame, matching the original dimensions.
+train/X_train.txt with test/X_test.txt -- the result is a 10299 x 561 data frame, matching the original dimensions.
 
 train/y_train.txt with test/y_test.txt -- the result is also a 10299 x 1 data frame with activity IDs.
 
